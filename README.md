@@ -1,7 +1,7 @@
 # OWASP Cheap Sheet Checklists
 
 - [X] [Authentication](./authentication.md)
-- [ ] Session Management
+- [X] [Session Management](./session.md)
 - [ ] Forgot Password
 - [ ] Password Storage
 - [ ] Transaction Authorization
