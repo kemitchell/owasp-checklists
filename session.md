@@ -1,5 +1,7 @@
 # Session Management
 
+<https://owasp.org/www-project-cheat-sheets/cheatsheets/Session_Management_Cheat_Sheet.html>
+
 ## Session IDs
 - [ ]  Don't give overly descriptive names.  Use something like `id`.
 - [ ]  >= 128 bits
