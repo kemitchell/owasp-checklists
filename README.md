@@ -2,7 +2,7 @@
 
 - [X]  [Authentication](./authentication.md)
 - [X]  [Session Management](./session.md)
-- [ ]  Forgot Password
+- [X]  [Forgot Password](./forgot.md)
 - [ ]  Password Storage
 - [ ]  Transaction Authorization
 - [ ]  Multi-Factor Authentication
