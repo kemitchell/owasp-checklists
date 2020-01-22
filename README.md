@@ -7,3 +7,4 @@
 - [ ] Transaction Authorization
 - [ ] Multi-Factor Authentication
 - [ ] Choosing and Using Security Questions
+- [ ] HTTP Strict Transport Security
